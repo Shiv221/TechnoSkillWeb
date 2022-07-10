@@ -1,2 +1,0 @@
-# TechnoSkillWeb
-TechnoSkill website
