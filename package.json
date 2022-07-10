@@ -1,11 +1,10 @@
 {
-  "name": "GeeksForGeeks",
+  "name": "TechnoSkills",
   "version": "1.0.0",
-  "description": "GeeksForGeeks",
+  "description": "TechnoSkills",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node start.js",
+    "start": "node start.js"
   },
   "engines": {
     "node": ">=7.6.0",
